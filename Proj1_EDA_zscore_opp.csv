@@ -1,0 +1,2 @@
+Date,Power_kW,temp_C,HR,windSpeed_m/s,windGust_m/s,pres_mbar,solarRad_W/m2,rain_mm/h,rain_day,Holiday
+2018-09-17 17:00:00,947.0591895,27.039166666666663,27.642499999999995,0.0,0.0,1014.0,276.79999999999995,0.0,0.0,0.0
